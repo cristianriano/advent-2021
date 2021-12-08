@@ -84,6 +84,8 @@ In this example, there are 3 sums that are larger than the previous sum.
 Consider sums of a three-measurement sliding window.
 **How many sums are larger than the previous sum?**
 
+## Solution
+
 ```elixir
 input = Kino.Input.textarea("Please paste your input file:")
 ```
